@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={linkedIn}
             target="_blank"
             rel="noopener noreferrer"
           >

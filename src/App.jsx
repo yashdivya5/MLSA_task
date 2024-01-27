@@ -29,7 +29,7 @@ const siteProps = {
   email: "yashdivyapatna@gmail.com",
   gitHub: "yashdivya5",
   instagram: "yash.divya",
-  linkedIn: "yash-divya-ab3aa6206/",
+  linkedIn: "https://www.linkedin.com/in/yash-divya-ab3aa6206/",
   medium: "",
   twitter: "YashDivya3",
   youTube: "",
