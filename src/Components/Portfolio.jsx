@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Food watage prevention website",
+    title: "Food wastage prevention website",
     description:
       "This is a food wate prevention and catering services management app",
     url: "https://yashdivya5.github.io/p2pv1/",
